@@ -1,0 +1,16 @@
+const char swA=16;
+const char swB=13;
+#define mag1 32
+#define mag2 35
+#define d1 5
+#define d2 14
+#define d3 23
+#define d4 19
+#define d5 18
+#define d6 26
+#define d7 15
+#define d8 34
+#define d9 33
+
+int getSteering();
+void doTest();
