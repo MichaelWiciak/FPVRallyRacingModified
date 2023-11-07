@@ -1,0 +1,24 @@
+git diff --git a/.DS_Store b/.DS_Store
+deleted file mode 100644
+index d18ed18..0000000
+Binary files a/.DS_Store and /dev/null differ
+diff --git a/Version 1/.DS_Store b/Version 1/.DS_Store
+deleted file mode 100644
+index 05e17bf..0000000
+Binary files a/Version 1/.DS_Store and /dev/null differ
+diff --git a/Version 2/.DS_Store b/Version 2/.DS_Store
+deleted file mode 100644
+index 9d7b466..0000000
+Binary files a/Version 2/.DS_Store and /dev/null differ
+diff --git a/Version 3/.DS_Store b/Version 3/.DS_Store
+deleted file mode 100644
+index d64b91c..0000000
+Binary files a/Version 3/.DS_Store and /dev/null differ
+diff --git a/Version 4/.DS_Store b/Version 4/.DS_Store
+deleted file mode 100644
+index ebeb5a1..0000000
+Binary files a/Version 4/.DS_Store and /dev/null differ
+diff --git a/Version 5/.DS_Store b/Version 5/.DS_Store
+deleted file mode 100644
+index f60601a..0000000
+Binary files a/Version 5/.DS_Store and /dev/null differ
